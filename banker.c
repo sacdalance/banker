@@ -1,6 +1,6 @@
 	#include <stdio.h>
 	
-	#define P 5 // row
+	#define P 5 // 
 	#define R 5 // column
 	
 	int main() {
